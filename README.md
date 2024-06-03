@@ -1,0 +1,1 @@
+# Predicting-Women-s-Clothing-Reviews-using-Multinomial-na-ve-Bayes-project.
